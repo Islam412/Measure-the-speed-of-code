@@ -1,24 +1,3 @@
-# import time
-
-
-# def caculater_time(func):
-#     def inner(a,b):
-        
-#         print('start ....')
-#         result=func(a,b)
-#         print('end ...')
-#         return result
-        
-#     return inner
-
-
-# @caculater_time
-# def mysum(x,y):
-#     print(x+y)
-    
-# mysum(3,4)
-
-
 
 import time
 
